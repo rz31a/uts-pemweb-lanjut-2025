@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/uts-pemweb-lanjut-2025/static/css/main.adb5885a.css",
+    "main.js": "/uts-pemweb-lanjut-2025/static/js/main.1f881b1f.js",
+    "static/js/453.d70de723.chunk.js": "/uts-pemweb-lanjut-2025/static/js/453.d70de723.chunk.js",
+    "static/media/gorila2.jpg": "/uts-pemweb-lanjut-2025/static/media/gorila2.baaeda2c967c2498d8e0.jpg",
+    "static/media/gorila1.jpg": "/uts-pemweb-lanjut-2025/static/media/gorila1.16097f2be22dfeb9e073.jpg",
+    "static/media/gorila.jpg": "/uts-pemweb-lanjut-2025/static/media/gorila.961660e5e07245d70287.jpg",
+    "static/media/gorila3.jpg": "/uts-pemweb-lanjut-2025/static/media/gorila3.bd49458c8a65b6da7a59.jpg",
+    "static/media/gorila4.png": "/uts-pemweb-lanjut-2025/static/media/gorila4.a43c3a89c256e5b7af40.png",
+    "static/media/gorila5.png": "/uts-pemweb-lanjut-2025/static/media/gorila5.30ba043e1a5032c8be9b.png",
+    "index.html": "/uts-pemweb-lanjut-2025/index.html",
+    "main.adb5885a.css.map": "/uts-pemweb-lanjut-2025/static/css/main.adb5885a.css.map",
+    "main.1f881b1f.js.map": "/uts-pemweb-lanjut-2025/static/js/main.1f881b1f.js.map",
+    "453.d70de723.chunk.js.map": "/uts-pemweb-lanjut-2025/static/js/453.d70de723.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adb5885a.css",
+    "static/js/main.1f881b1f.js"
+  ]
+}
